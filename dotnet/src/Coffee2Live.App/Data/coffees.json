@@ -1,0 +1,232 @@
+[
+  {
+    "name": "Ethiopian Yirgacheffe",
+    "origin": "Yirgacheffe region, Ethiopia",
+    "tastingNotes": "Bright citrus, floral jasmine, bergamot, and stone fruit with a tea-like body",
+    "bitterness": 2,
+    "acidity": "high",
+    "body": 2,
+    "roast": "light",
+    "bestFor": "Pour over, drip coffee, those who enjoy fruity and floral profiles"
+  },
+  {
+    "name": "Colombian Supremo",
+    "origin": "Huila region, Colombia",
+    "tastingNotes": "Caramel sweetness, milk chocolate, roasted nuts, subtle red apple",
+    "bitterness": 5,
+    "acidity": "medium",
+    "body": 3,
+    "roast": "medium",
+    "bestFor": "Espresso, French press, everyday drinking, those who prefer balanced flavors"
+  },
+  {
+    "name": "Sumatra Mandheling",
+    "origin": "North Sumatra, Indonesia",
+    "tastingNotes": "Earthy, herbal, dark chocolate, cedar, with syrupy sweetness",
+    "bitterness": 7,
+    "acidity": "low",
+    "body": 5,
+    "roast": "dark",
+    "bestFor": "French press, cold brew, those who enjoy bold, earthy coffees with low acidity"
+  },
+  {
+    "name": "Kenya AA",
+    "origin": "Nyeri and Kirinyaga, Kenya",
+    "tastingNotes": "Blackcurrant, grapefruit, tomato leaf, bright and winey finish",
+    "bitterness": 3,
+    "acidity": "high",
+    "body": 3,
+    "roast": "light",
+    "bestFor": "V60 pour over, Chemex, those who love juicy, complex acidity"
+  },
+  {
+    "name": "Guatemala Antigua",
+    "origin": "Antigua, Guatemala",
+    "tastingNotes": "Cocoa, baking spices, orange zest, rounded sweetness",
+    "bitterness": 4,
+    "acidity": "medium",
+    "body": 3,
+    "roast": "medium",
+    "bestFor": "Drip coffee, espresso, balanced and sweet cups"
+  },
+  {
+    "name": "Costa Rica Tarrazú",
+    "origin": "Tarrazú, Costa Rica",
+    "tastingNotes": "Honey, citrus, red berry, crisp and clean finish",
+    "bitterness": 2,
+    "acidity": "high",
+    "body": 2,
+    "roast": "light",
+    "bestFor": "Pour over, Aeropress, clarity-forward brews"
+  },
+  {
+    "name": "Brazil Santos",
+    "origin": "Minas Gerais and São Paulo, Brazil",
+    "tastingNotes": "Nutty, milk chocolate, low acidity, creamy body",
+    "bitterness": 6,
+    "acidity": "low",
+    "body": 4,
+    "roast": "medium",
+    "bestFor": "Espresso, moka pot, crowd-pleasing blends"
+  },
+  {
+    "name": "Tanzania Peaberry",
+    "origin": "Mount Kilimanjaro, Tanzania",
+    "tastingNotes": "Citrus, black tea, melon, lively and bright",
+    "bitterness": 3,
+    "acidity": "high",
+    "body": 2,
+    "roast": "light",
+    "bestFor": "Kalita Wave, manual brews with high clarity"
+  },
+  {
+    "name": "Hawaiian Kona",
+    "origin": "Kona District, Hawaii, USA",
+    "tastingNotes": "Sweet cream, light cocoa, tropical fruit, silky texture",
+    "bitterness": 2,
+    "acidity": "medium",
+    "body": 3,
+    "roast": "medium",
+    "bestFor": "Drip, siphon, smooth and delicate cups"
+  },
+  {
+    "name": "Jamaican Blue Mountain",
+    "origin": "Blue Mountains, Jamaica",
+    "tastingNotes": "Sweet almond, mild chocolate, balanced and clean",
+    "bitterness": 3,
+    "acidity": "medium",
+    "body": 3,
+    "roast": "medium",
+    "bestFor": "Filter coffee, those who prefer mild, refined profiles"
+  },
+  {
+    "name": "Rwanda Bourbon",
+    "origin": "Gakenke and Nyamasheke, Rwanda",
+    "tastingNotes": "Red currant, hibiscus, brown sugar, tea-like body",
+    "bitterness": 3,
+    "acidity": "high",
+    "body": 2,
+    "roast": "light",
+    "bestFor": "Pour over, bringing out delicate florals and fruit"
+  },
+  {
+    "name": "Burundi Kayanza",
+    "origin": "Kayanza Province, Burundi",
+    "tastingNotes": "Cranberry, maple, baking spice, clean and crisp",
+    "bitterness": 4,
+    "acidity": "medium",
+    "body": 2,
+    "roast": "light",
+    "bestFor": "Hand-brewed filter, bright yet sweet cups"
+  },
+  {
+    "name": "Peru Chanchamayo",
+    "origin": "Chanchamayo, Peru",
+    "tastingNotes": "Caramel, gentle citrus, walnut, soft finish",
+    "bitterness": 4,
+    "acidity": "medium",
+    "body": 3,
+    "roast": "medium",
+    "bestFor": "Drip, batch brew, approachable daily drinker"
+  },
+  {
+    "name": "Mexico Chiapas",
+    "origin": "Chiapas, Mexico",
+    "tastingNotes": "Cocoa nib, panela, orange peel, smooth body",
+    "bitterness": 5,
+    "acidity": "medium",
+    "body": 3,
+    "roast": "medium",
+    "bestFor": "Espresso and milk drinks, balanced chocolate notes"
+  },
+  {
+    "name": "Honduras Marcala",
+    "origin": "La Paz, Honduras",
+    "tastingNotes": "Brown sugar, stone fruit, vanilla, gentle acidity",
+    "bitterness": 4,
+    "acidity": "medium",
+    "body": 4,
+    "roast": "medium",
+    "bestFor": "Auto-drip, immersion, sweet and round profiles"
+  },
+  {
+    "name": "Nicaragua Segovia",
+    "origin": "Nueva Segovia, Nicaragua",
+    "tastingNotes": "Caramel, pear, cocoa, balanced and clean",
+    "bitterness": 5,
+    "acidity": "medium",
+    "body": 3,
+    "roast": "medium",
+    "bestFor": "French press, drip, balanced cups"
+  },
+  {
+    "name": "El Salvador Pacamara",
+    "origin": "Santa Ana, El Salvador",
+    "tastingNotes": "Red fruit, toffee, floral aromatics, creamy body",
+    "bitterness": 3,
+    "acidity": "medium",
+    "body": 4,
+    "roast": "light",
+    "bestFor": "Pour over, showcasing varietal clarity"
+  },
+  {
+    "name": "Panama Geisha",
+    "origin": "Boquete, Panama",
+    "tastingNotes": "Jasmine, bergamot, tropical fruit, tea-like and luminous",
+    "bitterness": 1,
+    "acidity": "high",
+    "body": 2,
+    "roast": "light",
+    "bestFor": "High-clarity filter brews, competition-style cups"
+  },
+  {
+    "name": "Papua New Guinea",
+    "origin": "Eastern Highlands, Papua New Guinea",
+    "tastingNotes": "Tropical fruit, molasses, herbal undertones, round body",
+    "bitterness": 6,
+    "acidity": "medium",
+    "body": 4,
+    "roast": "dark",
+    "bestFor": "Immersion, cold brew, rich and sweet cups"
+  },
+  {
+    "name": "India Monsooned Malabar",
+    "origin": "Malabar Coast, India",
+    "tastingNotes": "Low acidity, earthy, cedar, spicy with heavy body",
+    "bitterness": 8,
+    "acidity": "low",
+    "body": 5,
+    "roast": "dark",
+    "bestFor": "Espresso, blends needing body and low acidity"
+  },
+  {
+    "name": "Yemen Mokha",
+    "origin": "Haraz and Bani Matar, Yemen",
+    "tastingNotes": "Cocoa, dried date, spice, winey complexity",
+    "bitterness": 6,
+    "acidity": "high",
+    "body": 3,
+    "roast": "medium",
+    "bestFor": "Manual filter, adventurous, complex cups"
+  },
+  {
+    "name": "Bolivia Caranavi",
+    "origin": "Caranavi, Bolivia",
+    "tastingNotes": "Honey sweetness, citrus blossom, almond, silky finish",
+    "bitterness": 3,
+    "acidity": "medium",
+    "body": 3,
+    "roast": "light",
+    "bestFor": "Pour over, nuanced and sweet brews"
+  },
+  {
+    "name": "Uganda Bugisu",
+    "origin": "Mount Elgon, Uganda",
+    "tastingNotes": "Dark chocolate, molasses, plum, robust body",
+    "bitterness": 7,
+    "acidity": "low",
+    "body": 5,
+    "roast": "dark",
+    "bestFor": "French press, espresso, bold and heavy cups"
+  }
+]
