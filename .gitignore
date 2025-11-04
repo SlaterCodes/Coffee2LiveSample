@@ -16,7 +16,6 @@ bld/
 
 # Visual Studio cache/options
 .vs/
-.vscode/
 
 # User-specific files
 *.rsuser
